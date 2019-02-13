@@ -1,0 +1,19 @@
+{
+  "name": "flipkod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Davor Cuvalo",
+  "license": "ISC",
+  "dependencies": {
+    "moment-timezone": "^0.5.23",
+    "scrollmonitor": "^1.2.4",
+    "vue": "^2.6.5"
+  },
+  "alias": {
+    "vue": "./node_modules/vue/dist/vue.js"
+  }
+}
